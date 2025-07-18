@@ -1,7 +1,6 @@
 # power-bi-project
-Here is the complete **5-page documentation for your Power BI Project** in GitHub-friendly format. You can use this content in your **README.md** or as a separate **Documentation.md** file in your GitHub repository.
 
----
+
 
 # 📊 Power BI Project Documentation: Loan Data Analysis Dashboard
 
